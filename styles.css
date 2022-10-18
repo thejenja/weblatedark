@@ -1,0 +1,149 @@
+html {
+    color-scheme: dark!important
+}
+
+.object-link,.object-link a {
+    color: #fff
+}
+
+.dropdown-menu>li>a,footer a {
+    color: #eaeaea
+}
+
+.sort-cell:hover,.sort-cell:hover a,a {
+    color: #1fa385;
+    text-decoration: none
+}
+
+.sticky-header,body {
+    background-color: #080808
+}
+
+.sort-cell,.sort-cell a,body {
+    color: #fff
+}
+
+.breadcrumb a {
+    color: #fff!important
+}
+
+table {
+    background-color: #202020
+}
+
+.panel-default {
+    border-color: #222
+}
+
+.panel {
+    background-color: #222;
+    border: 1px solid transparent
+}
+
+.source-info .list-group-item {
+    padding: 15px;
+    border-color: #222
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #333;
+    border: 1px solid #222
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #202020
+}
+
+.badge.length,.badge.license {
+    color: #fff;
+    background-color: #333
+}
+
+.panel-default>.panel-heading {
+    color: #e9eaec;
+    background-color: #202020;
+    border-color: #444
+}
+
+.clickable-row:hover {
+    background-color: #444
+}
+
+.hlcheck,.token.placeable {
+    outline: 1px dotted #202020;
+    background-color: #555
+}
+
+.btn-default,.form-control {
+    color: #fff;
+    background-color: #202020
+}
+
+.btn-default {
+    border-color: #202020
+}
+
+.form-control {
+    background-image: none;
+    border: 1px solid #202020
+}
+
+.panel-danger>.panel-heading {
+    color: #f6664c;
+    background-color: #202020;
+    border-color: #333
+}
+
+.comment-content {
+    background-color: #252525
+}
+
+.btn-float {
+    background-color: #202020
+}
+
+ins,span.replacement {
+    background-color: #006400
+}
+
+del,span.replaced {
+    background-color: #981515
+}
+
+.dropdown-menu {
+    background-color: #252525;
+    border: 1px solid #202020
+}
+
+.dropdown-menu>li>a:focus,.dropdown-menu>li>a:hover {
+    color: #eaeaea;
+    background-color: #333
+}
+
+.divider {
+    background-color: #333!important
+}
+
+.history-row+.history-row td,.panel-footer {
+    border-top: 1px solid #333
+}
+
+.multi-wrapper .non-selected-wrapper,.multi-wrapper .selected-wrapper {
+    background: #333
+}
+
+.multi-wrapper {
+    border: 1px solid #333
+}
+
+.multi-wrapper .item:hover {
+    background: #444
+}
+
+a:focus,a:hover {
+    color: #1fa385
+}
